@@ -73,6 +73,27 @@
       "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/674fcb03268972a3a154e67bab44b70a.jpeg",
       "gamename": "The Impossible Quiz 2",
       "gamedes": "Quiz Planet is a fast-paced quiz game of intergalactic proportions where you can compete against your friends and other players."
+    },
+    {
+      "id": "5",
+      "gameurl": "https://poki.com/en/g/time-quiz#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/2570aef0e321418d58413e3d674928f0694fc417219de70e0bf099bad66bb0fc.png",
+      "gamename": "Time Quiz",
+      "gamedes": "TIME TO QUIZ! It's the perfect game for hours of fun! Answer hundreds of quizzes created by other users and create your own quizzes so everyone can answer and rate it!"
+    },
+    {
+      "id": "6",
+      "gameurl": "https://poki.com/en/g/its-story-time#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/a8e38af649693531e20fcd0ace566c73.png",
+      "gamename": "It's Story Time!",
+      "gamedes": "The “Little Stories” series present bedtime fairy tales for children, in which kid plays the main part. It’s quite simple – just enter kid’s name and gender in the settings window and enjoy reading personalised books. This is free short story books for children and toddlers with audio."
+    },
+    {
+      "id": "7",
+      "gameurl": "https://poki.com/en/g/brain-quiz-3d#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/ceab2f04699e55f59d94dc9b125fbda040148be8c4131da09a1cf2f124a57bc2.png",
+      "gamename": "Brain Quiz 3D",
+      "gamedes": "A perfect combination of tricky riddles, draw lines to save them all, and delete one part. All have created Brain Test - Thinking Game one of today’s top super intellectual brain games. Brain Test - Thinking Game will increase your thinking ability and make your mind quick to solve all complex quizzes."
     }
   ]
 }
