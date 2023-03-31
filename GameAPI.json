@@ -40,7 +40,7 @@
   "quiz_games": [
     {
       "id": "0",
-      "gameurl": "https://poki.com/en/g/brain-test-tricky-puzzles",
+      "gameurl": "https://poki.com/en/g/brain-test-tricky-puzzles#fullscreen",
       "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/e689238d6dcbb672b749ab65960c0d65.png",
       "gamename": "Brain Test: Tricky Puzzles",
       "gamedes": "Brain Test is an addictive free tricky puzzle game with a series of tricky brain teasers. Different riddles and tricky tests will challenge your mind. This new puzzle game may break common sense and bring your new brain-pushing experience!
@@ -48,31 +48,31 @@
     },
     {
       "id": "1",
-      "gameurl": "https://poki.com/en/g/venge-io#fullscreen",
-      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
-      "gamename": "Venge",
-      "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community. There are four standard game modes and maps and countless custom maps/game modes."
+      "gameurl": "https://poki.com/en/g/the-impossible-quiz#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/3cd96c99-46c1-4ff0-b04a-82381ea07349.png",
+      "gamename": "The Impossible Quiz",
+      "gamedes": "Once started it will be impossible to stop playing until you finish the quiz or turned mad!The Impossible Quiz is a free, fun and challenging brain-teaser loaded with questions, puzzles and more."
     },
     {
       "id": "2",
-      "gameurl": "https://poki.com/en/g/monkey-mart#fullscreen",
-      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b3668d7deb043d0f43b5813b0365be8f.png",
-      "gamename": "Monkey Mart",
-      "gamedes": "Monkey Mart is an idle/management game made by TinyDobbins. You control a cute monkey character that just created their supermarket."
+      "gameurl": "https://poki.com/en/g/brain-test-2-tricky-stories#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/9a06b8572ca88b3da665d191d8b0df12.png",
+      "gamename": "Brain Test 2: Tricky Stories",
+      "gamedes": "With over a zillion downloads, Brain Test: Tricky Puzzles redefined brain games. Now get more of the same exciting riddles and funny tests with Brain Test 2! If you like tricky games, riddles or brain games then Brain Test 2 with tricky tests is a great exercise for your brain."
     },
     {
       "id": "3",
-      "gameurl": "https://poki.com/en/g/rally-champion#fullscreen",
-      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f7c77877864c7e155e1128ea83870eda.png",
-      "gamename": "Rally Champion",
-      "gamedes": "Rally Champion is a realistic car racing game where you must race to finish in first place in various racing tracks across the globe."
+      "gameurl": "https://poki.com/en/g/brain-test-3-tricky-quests#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/311e1411784d5e63172e8fed86952517.png",
+      "gamename": "Brain Test 3: Tricky Quests",
+      "gamedes": "Join Alyx on her quest to find the six power gems in order to save her dying father. While helping Alyx to overcome tricky and brain teasing puzzles, meet with Brain Test franchise characters along the way."
     },
     {
       "id": "4",
-      "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival#fullscreen",
-      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
-      "gamename": "Temple Run 2: Holi Festival",
-      "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
+      "gameurl": "https://poki.com/en/g/the-impossible-quiz-2#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/674fcb03268972a3a154e67bab44b70a.jpeg",
+      "gamename": "The Impossible Quiz 2",
+      "gamedes": "Quiz Planet is a fast-paced quiz game of intergalactic proportions where you can compete against your friends and other players."
     }
   ]
 }
