@@ -40,10 +40,11 @@
   "quiz_games": [
     {
       "id": "0",
-      "gameurl": "https://poki.com/en/g/moto-x3m#fullscreen",
-      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/2c6d5a46cdbceada277c870ce1c389ee.jpg",
-      "gamename": "Moto X3M Bike Race Game",
-      "gamedes": "Moto X3M brings awesome bike racing. So grab your motorbike strap on your helmet and grab some airtime over obstacles to beat the clock on amazing off road circuits."
+      "gameurl": "https://poki.com/en/g/brain-test-tricky-puzzles",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/e689238d6dcbb672b749ab65960c0d65.png",
+      "gamename": "Brain Test: Tricky Puzzles",
+      "gamedes": "Brain Test is an addictive free tricky puzzle game with a series of tricky brain teasers. Different riddles and tricky tests will challenge your mind. This new puzzle game may break common sense and bring your new brain-pushing experience!
+"
     },
     {
       "id": "1",
