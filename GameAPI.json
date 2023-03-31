@@ -36,5 +36,42 @@
       "gamename": "Temple Run 2: Holi Festival",
       "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
     }
+  ],
+  "quiz_games": [
+    {
+      "id": "0",
+      "gameurl": "https://poki.com/en/g/moto-x3m#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/2c6d5a46cdbceada277c870ce1c389ee.jpg",
+      "gamename": "Moto X3M Bike Race Game",
+      "gamedes": "Moto X3M brings awesome bike racing. So grab your motorbike strap on your helmet and grab some airtime over obstacles to beat the clock on amazing off road circuits."
+    },
+    {
+      "id": "1",
+      "gameurl": "https://poki.com/en/g/venge-io#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
+      "gamename": "Venge",
+      "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community. There are four standard game modes and maps and countless custom maps/game modes."
+    },
+    {
+      "id": "2",
+      "gameurl": "https://poki.com/en/g/monkey-mart#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b3668d7deb043d0f43b5813b0365be8f.png",
+      "gamename": "Monkey Mart",
+      "gamedes": "Monkey Mart is an idle/management game made by TinyDobbins. You control a cute monkey character that just created their supermarket."
+    },
+    {
+      "id": "3",
+      "gameurl": "https://poki.com/en/g/rally-champion#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f7c77877864c7e155e1128ea83870eda.png",
+      "gamename": "Rally Champion",
+      "gamedes": "Rally Champion is a realistic car racing game where you must race to finish in first place in various racing tracks across the globe."
+    },
+    {
+      "id": "4",
+      "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival#fullscreen",
+      "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
+      "gamename": "Temple Run 2: Holi Festival",
+      "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
+    }
   ]
 }
