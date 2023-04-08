@@ -382,5 +382,49 @@
       "gamename": "Gold Digger FRVR",
       "gamedes": "Gold Digger FRVR is a 2D adventure game by FRVR Games. You are a miner with a shovel and you are discovering the underground world."
     }
+  ],
+  "shooting_games": [
+   {
+          "id": "0",
+          "gameurl": "https://poki.com/en/g/stupid-zombies#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/a7cfac4bc8ea2241480e822e986b3ab4.png",
+          "gamename": "Stupid Zombies",
+          "gamedes": "Stupid Zombies is a puzzle zombie shooting game developed by MarketJS. In this game, you’ll fight against zombies by aiming correctly with your gun and shooting bullets with rebounds."
+        },
+        {
+          "id": "1",
+          "gameurl": "https://poki.com/en/g/jetpack-joyride#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d5d34cb9ce7b617b93338982aa0958ab.png",
+          "gamename": "Jetpack Joyride",
+          "gamedes": "Jetpack Joyride is an action-packed endless running game where you ride crazy vehicles and shoot enemies. You are Barry Steakfries, and you need to beat all the scientists to the end of the lab."
+        },
+        {
+          "id": "2",
+          "gameurl": "https://poki.com/en/g/subway-clash-3d#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
+          "gamename": "Subway Clash 3D",
+          "gamedes": "Subway Clash 3D is a multiplayer shooter where you must descend into the subways and get ready to lead your team in the fight of the sewers."
+        },
+        {
+          "id": "3",
+          "gameurl": "https://poki.com/en/g/laborer-2#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/771a3fc215300b52de02f49c4af0d186.png",
+          "gamename": "Laborer 2",
+          "gamedes": "Laborer 2 is a skill-based stickman shooting game created by ANV Games. You are a tired laborer who is sick of carrying boxes, so now you just destroy them using a variety of guns."
+        },
+        {
+          "id": "4",
+          "gameurl": "https://poki.com/en/g/raft-wars#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d2a3bbd1bb8aea542835f4f8a353d388.png",
+          "gamename": "Raft Wars",
+          "gamedes": "Raft Wars is a fun, level-based shooting game created by Martijn Kunst, where you and your brother Simon will need to defend your treasure from enemies of all kinds."
+        },
+        {
+          "id": "5",
+          "gameurl": "https://poki.com/en/g/total-recoil#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/6954db8e12fede944237a3ea07e685b8.png",
+          "gamename": "Total Recoil",
+          "gamedes": "Total Recoil is a cool HTML5 game that is playable both on your desktop and on your mobile phone."
+        }
   ]
 }
